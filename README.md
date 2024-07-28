@@ -5,11 +5,9 @@ Welcome to the Quiz Management Website repository! This project is designed to f
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+<!--- [Installation](#installation) -->
 - [Technologies Used](#technologies-used)
 - [API Integration](#api-integration)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -45,10 +43,9 @@ To get a local copy up and running, follow these steps:
     ```bash
     npm start
     ```
--->
 ## functionality
 
-<!--Once the application is running, you can access it in your web browser at `http://localhost:3000`.-->
+Once the application is running, you can access it in your web browser at `http://localhost:3000`.
 
 - **For Faculty:**
   - Sign up or log in to create quizzes.
@@ -58,7 +55,7 @@ To get a local copy up and running, follow these steps:
 - **For Students:**
   - Sign up or log in to participate in quizzes.
   - View quiz results and track performance over time.
-
+-->
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript, React, tailwind
