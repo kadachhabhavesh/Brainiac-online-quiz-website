@@ -5,7 +5,6 @@ Welcome to the Quiz Management Website repository! This project is designed to f
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
@@ -22,9 +21,9 @@ Welcome to the Quiz Management Website repository! This project is designed to f
 - **Attendance Tracking**: Faculty can view lists of students who attended their quizzes.
 - **AI-Generated Questions**: Integration with an AI model API to auto-generate quiz questions.
 
-## Demo
+<!--## Demo
 
-You can find a live demo of the project [here](#). *(Provide a link if available)*
+ou can find a live demo of the project [here](#). *(Provide a link if available)*
 
 ## Installation
 
@@ -32,7 +31,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/quiz-management-website.git
+    git clone https://github.com/kadachhabhavesh/Brainiac-online-quiz-website
     ```
 2. **Navigate to the project directory:**
     ```bash
@@ -46,10 +45,10 @@ To get a local copy up and running, follow these steps:
     ```bash
     npm start
     ```
+-->
+## functionality
 
-## Usage
-
-Once the application is running, you can access it in your web browser at `http://localhost:3000`.
+<!--Once the application is running, you can access it in your web browser at `http://localhost:3000`.-->
 
 - **For Faculty:**
   - Sign up or log in to create quizzes.
@@ -62,11 +61,10 @@ Once the application is running, you can access it in your web browser at `http:
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, React, tailwind
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
-- **AI Integration:** OpenAI API (or specify the actual AI service used)
-- **Other:** Bootstrap (or any other libraries/frameworks)
+- **AI Integration:** AI Model API (or specify the actual AI service used)
 
 ## API Integration
 
@@ -74,16 +72,6 @@ This project uses an AI model API to automatically generate quiz questions. To s
 
 1. Obtain an API key from the AI service provider.
 2. Configure the API key in your project settings or environment variables.
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
 
 ## License
 
@@ -93,8 +81,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to contact me:
 
-- Email: [your-email@example.com](mailto:kadachhabhavesh7@gmail.com)
-- GitHub: [yourusername](https://github.com/kadachhabhavesh)
+- Email: [kadachhabhavesh7@gmail.com](mailto:kadachhabhavesh7@gmail.com)
+- GitHub: [kadachhabhavesh](https://github.com/kadachhabhavesh)
 
 ---
 
