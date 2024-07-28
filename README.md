@@ -18,7 +18,7 @@ Welcome to the Quiz Management Website repository! This project is designed to f
 
 - **Quiz Creation**: Faculty can create and manage quizzes.
 - **Quiz Participation**: Students can attend quizzes and view their results.
-- **Playlists**: Faculty can create playlists of quizzes for group activities.
+- **Playlists**: Faculty can create playlists of quizzes for group quizzes.
 - **Attendance Tracking**: Faculty can view lists of students who attended their quizzes.
 - **AI-Generated Questions**: Integration with an AI model API to auto-generate quiz questions.
 
