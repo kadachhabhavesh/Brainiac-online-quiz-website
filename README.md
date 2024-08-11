@@ -105,7 +105,7 @@ Once the application is running, you can access it in your web browser at `http:
 - **Frontend:** HTML, CSS, JavaScript, React, tailwind
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
-- **AI Integration:** AI Model API (or specify the actual AI service used)
+- **AI Integration:** AI Model API 
 
 ## API Integration
 
