@@ -107,16 +107,6 @@ Once the application is running, you can access it in your web browser at `http:
 - **Database:** MongoDB
 - **AI Integration:** AI Model API 
 
-## API Integration
-
-This project uses an AI model API to automatically generate quiz questions. To set up the API integration:
-
-1. Obtain an API key from the AI service provider.
-2. Configure the API key in your project settings or environment variables.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
